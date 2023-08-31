@@ -1,7 +1,7 @@
 # my_python
 A blank python project
 
-My Python project lifecycle consist of seven steps:
+My Python project lifecycle consist of follow steps:
 
 1. Business
 2. Architect
