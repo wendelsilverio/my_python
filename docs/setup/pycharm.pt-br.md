@@ -33,4 +33,4 @@ Python 3.11.5
 ### Ignorar a pasta .idea no Git
 
 1. Abra o arquivo [JetBrains.gitignore](https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore)
-2. Copie o conteúdo e cole no seu arquivo _.gitignore_ que deve ser criado na raiz do projeto
+2. Copie o conteúdo e cole no seu arquivo _.gitignore_ localizado na raiz do projeto

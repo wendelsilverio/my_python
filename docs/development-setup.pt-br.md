@@ -6,30 +6,23 @@
 - **SSD:** 512 GB
 - **O.S.:** Microsoft Windows 11 Home
 
-## Python 3.11.5
+## Minhas pastas de trabalho
 
-### Instalação
+- `C:\>code`: Pasta raiz de todo o meu código-fonte
+  > - Colocar o código-fonte no drive C:\ do Windows aumenta significativamente a performance, principalmente se for um SSD
+  > - Utilizar nome curto facilita na geração de scripts e acesso por linha de comando
+  > - Caso não possa criar uma pasta no drive C, sugiro cria na pasta do seu usuário do Windows
 
-1. Download do [Python Windows Installer](https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe)
-2. Após o download, execute o instalador _python-3.11.5-amd64.exe_
-3. Em _Install Python_, selecione as opções:
-   - [x] Use admin privileges when installing py.exe (Instalar no modo Administrador)
-   - [x] Add python.exe to PATH (permite usar o Python no prompt de comand)
-4. Clique em _Install Now_
-5. Após terminar, clique no botão _Close_.
+- `C:\>code\projects`: Pasta com os meus projetos
+- `C:\>code\sandbox`: Pasta com projetos de teste ou temporários
+- `C:\>code\github`: Pasta com os meus _forks_ e clones do Github
 
-### Teste
+## Linguagens de Programação
 
-1. Abra o _Prompt de Comando_ e digite `python --version`:
-
-```commandline
-C:\> python --version
-Python 3.11.5
-```
-2. Instalação concluída com sucesso!
+- [Python 3](setup/python.pt-br.md)
 
 ## IDE ou Editor de código
 
 Selecione uma IDE ou Editor que mais gostar.
 
-- [PyCharm](pycharm.pt-br.md)
+- [PyCharm](setup/pycharm.pt-br.md)
