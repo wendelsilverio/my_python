@@ -18,4 +18,10 @@
 C:\> python --version
 Python 3.11.5
 ```
-2. Instalação concluída com sucesso!
+
+Instalação concluída com sucesso!
+
+## Ignorar arquivos no Git
+
+1. Abra o arquivo [Python.gitignore](https://github.com/github/gitignore/blob/main/Python.gitignore)
+2. Copie o conteúdo e cole no seu arquivo _\.gitignore_ localizado na raiz do projeto

@@ -26,3 +26,4 @@
 Selecione uma IDE ou Editor que mais gostar.
 
 - [PyCharm](setup/pycharm.pt-br.md)
+- [Notepad++](https://notepad-plus-plus.org/)

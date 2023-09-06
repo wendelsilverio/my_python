@@ -33,4 +33,12 @@ Python 3.11.5
 ### Ignorar a pasta .idea no Git
 
 1. Abra o arquivo [JetBrains.gitignore](https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore)
-2. Copie o conteúdo e cole no seu arquivo _.gitignore_ localizado na raiz do projeto
+2. Copie o conteúdo e cole no seu arquivo _\.gitignore_ localizado na raiz do projeto
+
+### Adicionar o corretor ortográfico em português
+
+1. No PyCharm, acesse _File > Settings > Editor > Natural Languages_
+2. Na lista de idiomas, clique no botão +
+3. Será exibida uma lista de idiomas, selecione: _Português (Brasil)_
+4. Será realizado download do idioma, clique em _apply_ e _OK_
+5. No mesmo momento as marcações de texto irão desaparecer
