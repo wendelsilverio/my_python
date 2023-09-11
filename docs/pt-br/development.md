@@ -19,11 +19,11 @@
 
 ## Linguagens de Programação
 
-- [Python 3](setup/python.pt-br.md)
+- [Python 3](python.md)
 
 ## IDE ou Editor de código
 
 Selecione uma IDE ou Editor que mais gostar.
 
-- [PyCharm](setup/pycharm.pt-br.md)
+- [PyCharm](pycharm.md)
 - [Notepad++](https://notepad-plus-plus.org/)

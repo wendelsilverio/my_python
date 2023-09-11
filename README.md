@@ -1,7 +1,7 @@
 # my_python
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](README.pt-br.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](docs/pt-br/README.md)
 
-- [Development Setup](docs/development-setup.md): A guide to install and configure the necessary tools.
+- [Development Setup](docs/en-us/development.md): A guide to install and configure the necessary tools.
 
 Significant changes are recorded in [CHANGELOG](CHANGELOG.md).
 

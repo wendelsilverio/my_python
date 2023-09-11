@@ -19,7 +19,6 @@ C:\> python --version
 Python 3.11.5
 ```
 
-Instalação concluída com sucesso!
 
 ## Ignorar arquivos no Git
 
